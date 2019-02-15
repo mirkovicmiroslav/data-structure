@@ -1,9 +1,10 @@
 # Data structure 
 
-## Searching 
+## Searching/Tree 
 * Sequential Search
 * Binary Search
 * Binary Search Trees 
+* Balanced Search Trees(Red-Black BST)
 * Tries 
 
 ## Graphs 
